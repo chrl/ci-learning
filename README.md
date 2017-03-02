@@ -22,6 +22,10 @@ This project is main for our ci-learning-maraphon.
 
    Practice: Builde your first travis automation. Setup warnings and notifications.
    
+...
+
+7. Result day: Have your project automated -- testable, deployable, stable.
+   
 ## Projects
 
 1. 

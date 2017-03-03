@@ -20,11 +20,25 @@ This project is main for our ci-learning-maraphon.
    
 3. Theory: Learning about automated testing, travis, .travis-ci.yml configs.
 
-   Practice: Builde your first travis automation. Setup warnings and notifications.
-   
-...
+   Practice: Build your first travis automation. Setup warnings and notifications.
 
-7. Result day: Have your project automated -- testable, deployable, stable.
+4. Theory: Learning about code-quality instruments: slinsight, scrunitizer, coveralls.io, etc.
+   
+   Practice: Create automated testing and CQ reporting with scrunitizer. Try to fix all warnings.
+  
+5. Theory: Learning about environments, difference between test/dev/prod envs, automated evironment setup.
+   
+   Practice: Create different builds for different PHP environments. Have your project tested in PHP 5.5/5.6/7.0/7.1/hhvm
+
+6. Theory: Database migrations. Database seeding. Tools for db migrations: doctrine schema, phinx, etc.
+
+   Practice: Write your first migration, attach migrations to build process.
+
+7. Theory: deployment, basic principles. Automated delivery.
+
+   Practice: Get your project successfully deployed after each build.
+
+8. Result day: Have your project automated -- testable, deployable, stable. Discuss the results and plans for future development. 
    
 ## Projects
 

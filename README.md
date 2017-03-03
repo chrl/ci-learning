@@ -3,7 +3,7 @@
 This project is main for our ci-learning-maraphon. 
 
 ## Participants
-1. Kirill Kholodilin
+1. Kirill Kholodilin (chrl)
 2. 
 
 ## Roadmap
@@ -28,4 +28,5 @@ This project is main for our ci-learning-maraphon.
    
 ## Projects
 
-1. 
+1. Kirill Kholodilin (chrl) [CI-learning project](https://github.com/chrl/ci-learning-project) -- basic symfony-demo application,
+will be used for demonstration of tests, continious integration, etc. 
